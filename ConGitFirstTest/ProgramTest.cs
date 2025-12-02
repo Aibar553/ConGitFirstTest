@@ -4,6 +4,7 @@ namespace ConGitFirstTest
 {
     public class ProgramTest
     {
+        // 7 Сумма чисел в диапазоне
         [Fact]
         public void SumRange_ShouldReturnCorrectSum_ForNormalRange()
         {
@@ -34,9 +35,8 @@ namespace ConGitFirstTest
 
             Assert.Throws<ArgumentException>(() => Program.SumRange(from, to));
         }
-        
-        
-        
+
+        // 8 Поиск элемента в списке (LINQ)
         [Fact]
         public void HasName_ShouldReturnTrue_WhenElementExists()
         {
@@ -76,9 +76,9 @@ namespace ConGitFirstTest
             // Act & Assert
             Assert.Throws<ArgumentNullException>(() => Program.HasName(items, "Ann"));
         }
-        
-        
-        
+
+        // 9 Подсчёт слов в строке
+
         [Fact]
         public void CountWords_ShouldHandleMultipleSpacesCorrectly()
         {
@@ -117,7 +117,7 @@ namespace ConGitFirstTest
             Assert.Throws<ArgumentNullException>(() => Program.CountWords(input));
         }
 
-
+        // 10 Генерация списка чётных чисел
         [Fact]
         public void GetEvens_ShouldReturnCorrectList_ForNormalValue()
         {
