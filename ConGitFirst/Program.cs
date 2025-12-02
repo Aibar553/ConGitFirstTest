@@ -1,10 +1,11 @@
-﻿namespace ConGitFirst
+namespace ConGitFirst
 {
     public class Program
     {
         static void Main(string[] args) 
         {
         }
+        // 7 Сумма чисел в диапазоне
         public static int SumRange(int from, int to)
         {
             if (from > to)
@@ -19,6 +20,7 @@
 
             return sum;
         }
+        // 8 Поиск элемента в списке (LINQ)
         public static bool HasName(List<string> items, string name)
         {
             if (items == null)
@@ -26,6 +28,7 @@
 
             return items.Contains(name);
         }
+        // 9 Подсчёт слов в строке
         public static int CountWords(string s)
         {
             if (s == null)
@@ -33,6 +36,7 @@
 
             return s.Split(' ', StringSplitOptions.RemoveEmptyEntries).Length;
         }
+        // 10 Генерация списка чётных чисел
         public static List<int> GetEvens(int n)
         {
             var result = new List<int>();
