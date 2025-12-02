@@ -1,0 +1,14 @@
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\bin\Debug\net8.0\ConGitFirst.exe
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\bin\Debug\net8.0\ConGitFirst.deps.json
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\bin\Debug\net8.0\ConGitFirst.runtimeconfig.json
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\bin\Debug\net8.0\ConGitFirst.dll
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\bin\Debug\net8.0\ConGitFirst.pdb
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.AssemblyInfoInputs.cache
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.AssemblyInfo.cs
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.csproj.CoreCompileInputs.cache
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.dll
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\refint\ConGitFirst.dll
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.pdb
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ConGitFirst.genruntimeconfig.cache
+C:\Users\ARYSBAYA\source\repos\ConGitFirst\ConGitFirst\obj\Debug\net8.0\ref\ConGitFirst.dll

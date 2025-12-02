@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConGitFirst", "ConGitFirst\ConGitFirst.csproj", "{898755C6-9DAD-4F68-BD4E-973976FD8C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConGitFirst", "ConGitFirst\ConGitFirst.csproj", "{898755C6-9DAD-4F68-BD4E-973976FD8C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConGitFirstTest", "ConGitFirstTest\ConGitFirstTest.csproj", "{AF8A4BA2-2B69-4CCC-A378-0B6C8DA578BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{898755C6-9DAD-4F68-BD4E-973976FD8C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898755C6-9DAD-4F68-BD4E-973976FD8C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898755C6-9DAD-4F68-BD4E-973976FD8C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8A4BA2-2B69-4CCC-A378-0B6C8DA578BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8A4BA2-2B69-4CCC-A378-0B6C8DA578BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8A4BA2-2B69-4CCC-A378-0B6C8DA578BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8A4BA2-2B69-4CCC-A378-0B6C8DA578BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
